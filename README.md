@@ -1,0 +1,2 @@
+# PicX
+PicX PicGo Typora
